@@ -2,9 +2,14 @@
 # Web Application Security
 
 to be added
-.
-.
-.
+...
+
+...
+
+...
+
+...
+
 
 
 
@@ -16,39 +21,64 @@ You can find the full course descriptor at: [Web Application Security Course Des
 ## Introduction
 
 to be added
-.
-.
-.
+...
+
+...
+
+...
+
+...
+
 
 
 ## Overview of assignments
 
 to be added
-.
-.
-.
+...
+
+...
+
+...
+
+...
+
 
 ## Slides
 
 to be added
-.
-.
-.
+...
+
+...
+
+...
+
+...
+
 
 ## Recorded Lectures
 to be added
-.
-.
-.
+...
+
+...
+
+...
+
+...
+
 
 
 
 ## References
 
 to be added
-.
-.
-.
+...
+
+...
+
+...
+
+...
+
 
 
 
