@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Web Application Security
 
 You can use the [editor on GitHub](https://github.com/bbashari/WAS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
