@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/bbashari/WAS/edit/master/R
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Img/HR%20Logo.png]
+[Logo](Img/HR%20Logo.png)
 
 
 ### Markdown
