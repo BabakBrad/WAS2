@@ -2,6 +2,37 @@
 # Web Application Security
 
 
+
+
+
+## Course Description
+
+You can find the full course descriptor at: [Web Application Security Course Descriptor](//)
+
+
+## Introduction
+
+
+
+
+## Overview of assignments
+
+
+
+## Slides
+
+
+
+## Recorded Lectures
+
+
+
+
+## 
+
+
+
+
 You can use the [editor on GitHub](https://github.com/bbashari/WAS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
