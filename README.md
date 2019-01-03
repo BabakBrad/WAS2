@@ -47,10 +47,14 @@ to be added
 You can download the slides below:
 
 [Week 1](slides/W01-Basics.pptx)
-[Week 2](slides/W01- Basics.pptx)
-[Week 3](slides/W01- Basics.pptx)
-[Week 4](slides/W01- Basics.pptx)
-[Week 5](slides/W01- Basics.pptx)
+
+[Week 2](slides/W01-Basics.pptx)
+
+[Week 3](slides/W01-Basics.pptx)
+
+[Week 4](slides/W01-Basics.pptx)
+
+[Week 5](slides/W01-Basics.pptx)
 
 ...
 
