@@ -44,10 +44,11 @@ to be added
 
 ## Slides
 
-to be added
-...
+You can download the slides below:
 
-...
+[Week 1](docs/img/HR%20Logo.png)
+
+[Week 2](docs/img/HR%20Logo.png)
 
 ...
 
