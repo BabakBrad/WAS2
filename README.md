@@ -22,13 +22,13 @@ to be added
 
 On completion of this module, students will be able to:
 
-1)	Apply a detailed methodology to your web application penetration tests.
+  1)	Apply a detailed methodology to your web application penetration tests.
 
-2)	Analyse the results from automated web testing tools to remove false positives and validate findings. Manually discover key web application flaws.
+  2)	Analyse the results from automated web testing tools to remove false positives and validate findings. Manually discover key web         application flaws.
 
-3)	Analyse traffic between the client and the server application using proxy tools to find security issues within the client-side application code.
+  3)	Analyse traffic between the client and the server application using proxy tools to find security issues within the client-side           application code.
 
-4)	Create configurations and test payloads within other web attacks.
+  4)	Create configurations and test payloads within other web attacks.
 
 
 ## Slides
@@ -45,9 +45,7 @@ You can download the slides below:
 
 [Week 5](slds/W01-Basics.pptx)
 
-...
 
-...
 
 
 ## Lab Practices
@@ -60,12 +58,6 @@ to be added
 
 [Week 3: Subsystems](labs/Lab01-Postman.docx)
 
-
-...
-
-...
-
-...
 
 
 
