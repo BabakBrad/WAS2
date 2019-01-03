@@ -1,4 +1,4 @@
-![Logo](Img/HR%20Logo.png)
+![Logo](doc/img/HR%20Logo.png)
 # Web Application Security
 quantity and importance of data entrusted to web applications is growing, and defenders need to learn how to secure them. Traditional network defences, such as firewalls, fail to secure web applications. This course introduces these potential risks and helps students to better understand web application vulnerabilities, thus enabling them to properly defend organizations’ web assets.
 
