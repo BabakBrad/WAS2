@@ -30,27 +30,16 @@ On completion of this module, students will be able to:
 
 
 
-## Overview of assignments
-
-to be added
-...
-
-...
-
-...
-
-...
-
 
 ## Slides
 
 You can download the slides below:
 
-[Week 1](slides/W01-Basics.pptx)
+[Week 1: The Basics](slides/W01-Basics.pptx)
 
-[Week 2](slides/W01-Basics.pptx)
+[Week 2: Passing Data to Subsystems](slides/W01-Basics.pptx)
 
-[Week 3](slides/W01-Basics.pptx)
+[Week 3: User Input](slides/W01-Basics.pptx)
 
 [Week 4](slides/W01-Basics.pptx)
 
@@ -59,6 +48,21 @@ You can download the slides below:
 ...
 
 ...
+
+
+## Lab Practices
+
+to be added
+
+[Week 1](slides/W01-Basics.pptx)
+
+
+...
+
+...
+
+...
+
 
 
 ## Recorded Lectures
