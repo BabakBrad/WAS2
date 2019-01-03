@@ -54,7 +54,11 @@ You can download the slides below:
 
 to be added
 
-[Week 1](slides/W01-Basics.pptx)
+[Week 1: Requests and Responses](slides/W01-Basics.pptx)
+
+[Week 2: Building a Security Lab](slides/W01-Basics.pptx)
+
+[Week 3: Subsystems](slides/W01-Basics.pptx)
 
 
 ...
