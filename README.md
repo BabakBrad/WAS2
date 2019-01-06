@@ -11,7 +11,7 @@ This course introduces these potential risks and helps students to better unders
 
 You can find the full course descriptor at: [Web Application Security Course Descriptor]()
 
-_____________________________________________________________________________________________________________________________________
+* * *
 
 ## Learning Outcome
 
@@ -25,7 +25,7 @@ On completion of this module, students will be able to:
 
 4. Create configurations and test payloads within other web attacks.
 
-_____________________________________________________________________________________________________________________________________
+* * *
 
 ## Slides
 
@@ -45,7 +45,7 @@ Slides can be download below:
 
 > [Week 7: Enemies of Secure Code]()
 
-_____________________________________________________________________________________________________________________________________
+* * *
 
 ## Lab Practices
 
@@ -65,15 +65,15 @@ Lab instructions can be download below:
 
 > [Week 7]()
 
-_____________________________________________________________________________________________________________________________________
+* * *
 
 ### Main text book:
-Sverre H. Huseby. [Innocent Code: A Security Wake-Up Call for Web Programmers](https://www.amazon.com/Innocent-Code-Security-Wake-Up-Programmers/dp/0470857447). Wiley; 1 edition (January 30, 2004)
+_Sverre H. Huseby_. [Innocent Code: A Security Wake-Up Call for Web Programmers](https://www.amazon.com/Innocent-Code-Security-Wake-Up-Programmers/dp/0470857447). Wiley; 1 edition (January 30, 2004)
 
 ### Additional references:
-Paco Hope and Ben Walther. [Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast](https://www.amazon.com/Web-Security-Testing-Cookbook-Systematic/dp/0596514832). O'Reilly Media; 1 edition (October 27, 2008).
+_Paco Hope_ and _Ben Walther_. [Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast](https://www.amazon.com/Web-Security-Testing-Cookbook-Systematic/dp/0596514832). O'Reilly Media; 1 edition (October 27, 2008).
 
-Dafydd Stuttard and Marcus Pinto. [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470). Wiley; 2 edition (September 27, 2011).
+_Dafydd Stuttard_ and _Marcus Pinto_. [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470). Wiley; 2 edition (September 27, 2011).
 
 _____________________________________________________________________________________________________________________________________
 
