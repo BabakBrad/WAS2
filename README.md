@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 ## Course Description
 
-You can find the full course descriptor at: [Web Application Security Course Descriptor](docs/Web_Application_Security.docx)
+You can find the full course descriptor at: [Web Application Security Course Descriptor](docs/Lab-01-HTTP.pdf)
 
 _____________________________________________________________________________________________________________________________________
 
