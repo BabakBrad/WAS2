@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 You can find the full course descriptor at: [Web Application Security Course Descriptor](docs/Web_Application_Security.docx)
 
-
+_____________________________________________________________________________________________________________________________________
 ## Introduction
 
 Web Applications are currently the predominant source of software vulnerabilities exploited in online attacks. There is a growing need and demand for web programmers to be security literate.
@@ -41,9 +41,7 @@ You can download the slides below:
 
 [Week 5](slds/W01-Basics.pptx)
 
-
-
-
+_____________________________________________________________________________________________________________________________________
 ## Lab Practices
 
 to be added
@@ -53,10 +51,7 @@ to be added
 [Week 2: Building a Security Lab](labs/Lab01-Postman.docx)
 
 [Week 3: Subsystems](labs/Lab01-Postman.docx)
-
-
-
-
+____________________________________________________________________________________________________________________________________
 ## Recorded Lectures
 to be added
 ...
@@ -77,7 +72,6 @@ Sverre H. Huseby. Innocent Code: A Security Wake-Up Call for Web Programmers. Wi
 Paco Hope and Ben Walther. Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast. O'Reilly Media; 1 edition (October 27, 2008).
 
 Dafydd Stuttard and Marcus Pinto. The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws. Wiley; 2 edition (September 27, 2011).
-
 _____________________________________________________________________________________________________________________________________
 
 
