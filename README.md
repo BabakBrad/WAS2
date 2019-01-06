@@ -74,16 +74,3 @@ _Sverre H. Huseby_. [Innocent Code: A Security Wake-Up Call for Web Programmers]
 _Paco Hope_ and _Ben Walther_. [Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast](https://www.amazon.com/Web-Security-Testing-Cookbook-Systematic/dp/0596514832). O'Reilly Media; 1 edition (October 27, 2008).
 
 _Dafydd Stuttard_ and _Marcus Pinto_. [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470). Wiley; 2 edition (September 27, 2011).
-
-_____________________________________________________________________________________________________________________________________
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-to be added
-.
-.
-.
-```
