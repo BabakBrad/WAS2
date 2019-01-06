@@ -60,7 +60,7 @@ Lab instructions can be download below:
 _____________________________________________________________________________________________________________________________________
 
 ### Main text book:
-Sverre H. Huseby. Innocent Code: A Security Wake-Up Call for Web Programmers. Wiley; 1 edition (January 30, 2004)
+Sverre H. Huseby. [Innocent Code: A Security Wake-Up Call for Web Programmers](https://www.amazon.com/Innocent-Code-Security-Wake-Up-Programmers/dp/0470857447). Wiley; 1 edition (January 30, 2004)
 
 ### Additional references:
 Paco Hope and Ben Walther. Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast. O'Reilly Media; 1 edition (October 27, 2008).
