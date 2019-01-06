@@ -37,9 +37,13 @@ Slides can be download below:
 
 [Week 3: User Input]()
 
-[Week 4]()
+[Week 4: Output Handling]()
 
-[Week 5]()
+[Week 5: Web Trojans]()
+
+[Week 6: Passwords]()
+
+[Week 7: Enemies of Secure Code]()
 
 _____________________________________________________________________________________________________________________________________
 
@@ -53,9 +57,9 @@ Lab instructions can be download below:
 
 [Week 3: Subsystems]()
 
-[Week 4: ]()
+[Week 4]()
 
-[Week 5: ]()
+[Week 5]()
 
 _____________________________________________________________________________________________________________________________________
 
