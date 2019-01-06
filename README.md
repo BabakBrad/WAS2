@@ -63,9 +63,9 @@ ________________________________________________________________________________
 Sverre H. Huseby. [Innocent Code: A Security Wake-Up Call for Web Programmers](https://www.amazon.com/Innocent-Code-Security-Wake-Up-Programmers/dp/0470857447). Wiley; 1 edition (January 30, 2004)
 
 ### Additional references:
-Paco Hope and Ben Walther. Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast. O'Reilly Media; 1 edition (October 27, 2008).
+Paco Hope and Ben Walther. [Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast](https://www.amazon.com/Web-Security-Testing-Cookbook-Systematic/dp/0596514832). O'Reilly Media; 1 edition (October 27, 2008).
 
-Dafydd Stuttard and Marcus Pinto. The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws. Wiley; 2 edition (September 27, 2011).
+Dafydd Stuttard and Marcus Pinto. [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470). Wiley; 2 edition (September 27, 2011).
 
 _____________________________________________________________________________________________________________________________________
 
