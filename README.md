@@ -1,4 +1,5 @@
 ![Logo](docs/img/HR%20Logo.png)
+
 # Web Application Security
 
 Web Applications are currently the predominant source of software vulnerabilities exploited in online attacks.Quantity and importance of data entrusted to web applications is growing, and defenders need to learn how to secure them. Traditional network defences, such as firewalls, fail to secure web applications.  There is a growing need and demand for web programmers to be security literate.
@@ -32,38 +33,44 @@ You can download the slides below:
 
 [Week 1: The Basics](slds/W01-Basics.pptx)
 
-[Week 2: Passing Data to Subsystems](slds/W01-Basics.pptx)
+[Week 2: Passing Data to Subsystems]()
 
-[Week 3: User Input](slds/W01-Basics.pptx)
+[Week 3: User Input]()
 
-[Week 4](slds/W01-Basics.pptx)
+[Week 4]()
 
-[Week 5](slds/W01-Basics.pptx)
+[Week 5]()
 
 _____________________________________________________________________________________________________________________________________
 
 ## Lab Practices
 
-[Week 1: Requests and Responses](labs/Lab01-Postman.docx)
+[Week 1: HTTP Requests and Responses](labs/Lab-01-HTTP.pdf)
 
-[Week 2: Building a Security Lab](labs/Lab01-Postman.docx)
+[Week 2: Building a Security Lab]()
 
-[Week 3: Subsystems](labs/Lab01-Postman.docx)
+[Week 3: Subsystems]()
+
+[Week 4: ]()
+
+[Week 5: ]()
+
 
 ____________________________________________________________________________________________________________________________________
 
 ## Recorded Lectures
+
 to be added
-...
 
-...
+[Week 1]()
 
-...
+[Week 2]()
 
-...
+[Week 3]()
 
+[Week 4]()
 
-
+[Week 5]()
 _____________________________________________________________________________________________________________________________________
 
 ### Main text book:
