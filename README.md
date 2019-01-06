@@ -9,6 +9,7 @@ ________________________________________________________________________________
 ## Course Description
 
 You can find the full course descriptor at: [Web Application Security Course Descriptor](docs/Web_Application_Security.docx)
+
 _____________________________________________________________________________________________________________________________________
 
 ## Learning Outcome
@@ -19,6 +20,7 @@ On completion of this module, students will be able to:
 2)	Analyse the results from automated web testing tools to remove false positives and validate findings. Manually discover key web application flaws.
 3)	Analyse traffic between the client and the server application using proxy tools to find security issues within the client-side application code.
 4)	Create configurations and test payloads within other web attacks.
+
 _____________________________________________________________________________________________________________________________________
 
 ## Slides
@@ -44,7 +46,9 @@ ________________________________________________________________________________
 [Week 2: Building a Security Lab](labs/Lab01-Postman.docx)
 
 [Week 3: Subsystems](labs/Lab01-Postman.docx)
+
 ____________________________________________________________________________________________________________________________________
+
 ## Recorded Lectures
 to be added
 ...
@@ -58,6 +62,7 @@ to be added
 
 
 _____________________________________________________________________________________________________________________________________
+
 ### Main text book:
 Sverre H. Huseby. Innocent Code: A Security Wake-Up Call for Web Programmers. Wiley; 1 edition (January 30, 2004)
 
@@ -65,9 +70,8 @@ Sverre H. Huseby. Innocent Code: A Security Wake-Up Call for Web Programmers. Wi
 Paco Hope and Ben Walther. Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast. O'Reilly Media; 1 edition (October 27, 2008).
 
 Dafydd Stuttard and Marcus Pinto. The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws. Wiley; 2 edition (September 27, 2011).
+
 _____________________________________________________________________________________________________________________________________
-
-
 
 ### Markdown
 
