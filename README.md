@@ -51,19 +51,19 @@ ________________________________________________________________________________
 
 Lab instructions can be download below:
 
-[Week 1: HTTP Requests and Responses](labs/Lab-01-HTTP.pdf)
+* [Week 1: HTTP Requests and Responses](labs/Lab-01-HTTP.pdf)
 
-[Week 2: Building a Security Lab]()
+* [Week 2: Building a Security Lab]()
 
-[Week 3: Subsystems]()
+* [Week 3: Subsystems]()
 
-[Week 4]()
+* [Week 4]()
 
-[Week 5]()
+* [Week 5]()
 
-[Week 6]()
+* [Week 6]()
 
-[Week 7]()
+* [Week 7]()
 
 _____________________________________________________________________________________________________________________________________
 
