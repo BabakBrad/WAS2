@@ -77,16 +77,10 @@ ________________________________________________________________________________
 ### Main text book:
 Sverre H. Huseby. Innocent Code: A Security Wake-Up Call for Web Programmers. Wiley; 1 edition (January 30, 2004)
 
-Author(s):	
-
-Pub. Year:	2004
-_____________________________________________________________________________________________________________________________________
 ### Additional references:
 Paco Hope and Ben Walther. Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast. O'Reilly Media; 1 edition (October 27, 2008).
 
 Dafydd Stuttard and Marcus Pinto. The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws. Wiley; 2 edition (September 27, 2011).
-
-
 _____________________________________________________________________________________________________________________________________
 
 ### Markdown
