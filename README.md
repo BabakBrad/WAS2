@@ -78,6 +78,7 @@ to be added
 
 ### Main text book:
 Title:	Innocent Code: A Security Wake-Up Call for Web Programmers 1st Edition
+
 Author(s):	Sverre H. Huseby
 
 Pub. Year:	2004
