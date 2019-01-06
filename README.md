@@ -17,8 +17,11 @@ ________________________________________________________________________________
 On completion of this module, students will be able to:
 
 1)	Apply a detailed methodology to your web application penetration tests.
+
 2)	Analyse the results from automated web testing tools to remove false positives and validate findings. Manually discover key web application flaws.
+
 3)	Analyse traffic between the client and the server application using proxy tools to find security issues within the client-side application code.
+
 4)	Create configurations and test payloads within other web attacks.
 
 _____________________________________________________________________________________________________________________________________
