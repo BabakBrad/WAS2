@@ -11,13 +11,10 @@ You can find the full course descriptor at: [Web Application Security Course Des
 
 ## Introduction
 
-to be added
-...
+Web Applications are currently the predominant source of software vulnerabilities exploited in online attacks. There is a growing need and demand for web programmers to be security literate.
 
-...
-
-...
-
+These courses covers the main types of web application vulnerabilities and current professional coding and testing best practices to be able to successfully develop and test secure web applications.
+_____________________________________________________________________________________________________________________________________
 ## Learning Outcome
 
 On completion of this module, students will be able to:
@@ -29,8 +26,7 @@ On completion of this module, students will be able to:
 3)	Analyse traffic between the client and the server application using proxy tools to find security issues within the client-side application code.
 
 4)	Create configurations and test payloads within other web attacks.
-
-
+_____________________________________________________________________________________________________________________________________
 ## Slides
 
 You can download the slides below:
@@ -81,7 +77,10 @@ Sverre H. Huseby. Innocent Code: A Security Wake-Up Call for Web Programmers. Wi
 Paco Hope and Ben Walther. Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast. O'Reilly Media; 1 edition (October 27, 2008).
 
 Dafydd Stuttard and Marcus Pinto. The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws. Wiley; 2 edition (September 27, 2011).
+
 _____________________________________________________________________________________________________________________________________
+
+
 
 ### Markdown
 
